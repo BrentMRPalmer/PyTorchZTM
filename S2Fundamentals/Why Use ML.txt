@@ -1,0 +1,8 @@
+Why Use Machine Learning or Deep Learning?
+
+For a complex problem, can you think of all the rules?
+Ex: What are all the rules of driving?
+
+Google's number 1 rule of machine learning:
+If you can build a simple rule-based system that
+doesn't require machine learning, do that.
