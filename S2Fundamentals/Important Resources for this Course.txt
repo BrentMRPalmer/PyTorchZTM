@@ -1,0 +1,6 @@
+Important Resources for this Course
+
+1) The github for the course
+2) Course Q & A page (under discussions on the repo)
+3) Course online book
+4) PyTorch website and forms

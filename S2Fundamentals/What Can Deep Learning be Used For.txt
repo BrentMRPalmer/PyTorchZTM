@@ -1,0 +1,16 @@
+What can Deep Learning be Used for?
+
+Deep Learning Use Cases
+Recommendation: Algorithms that recommend content (YouTube, Twitter, Instagram, etc.)
+Translation: Googe translate, for example
+Speech recognition: Converting speech to text
+Computer vision: Being able to recognize objects using cameras
+Natural Language Processing (NLP): The process of finding patterns in text (spam recognition)
+
+Seq2Seq means sequence to sequence, which would include translation and speech recognition
+(put one sequence in and get one sequence out)
+
+Classification/regression includes computer vision and natural language processing 
+(Regression in predicting a number)
+
+

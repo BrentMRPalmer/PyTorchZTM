@@ -1,0 +1,23 @@
+Course Welcome and What is Deep Learning?
+
+What is deep learning?
+Deep learning is a subset of machine learning.
+
+Machine learning is turning things (data) into numbers and finding
+patterns in those numbers. 
+
+The computer finds the pattterns using code and math.
+This course is code focused, not on the math.
+
+Deep learning is a subset of machine learning
+Machine learning is a subset of artificial intelligence
+
+Traditional Programming:
+Start with rules and inputs.
+The rules are followed to create the output.
+
+Machine Learning Algorithm:
+Start with the inputs and outputs.
+The computer determines the rules which can be 
+applied to new inputs.
+> Figures out the bridge between the input to the output

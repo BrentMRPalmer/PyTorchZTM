@@ -1,0 +1,21 @@
+What is and Why PyTorch?
+
+What is PyTorch?
+- Most popular research deep learning framework
+- Write fast deep learning code in Python (Able to run on a GPU / many GPUs)
+- Able to access many pre-built deep learning models (Torch Hub/torchvision.models)
+- Whole stack: preprocess data, model data, deploy model in your application/cloud
+- Originally designed and used in-house by Facebook/Meta (now open-source and used 
+	by companies such as Tesla, Microsoft, OpenAI)
+
+Why PyTorch
+- Research favourite
+- Can solve very sophisticated problems
+- Used in lots of places in industry (ex: Tesla using it for autopilot)
+
+What is a GPU/TPU?
+A GPU is a graphics processing unit (requires a lot of numerical computations)
+GPU uses CUDA that allows you to run machine learning code on GPUs.
+
+A TPU is a tensor processing unit (not very common)
+Machine learning and deep learning deals a lot with tensors, so this is useful.

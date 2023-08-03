@@ -1,0 +1,25 @@
+Types of Learning
+
+Supervised Learning
+When you have data and labels
+When you have precise examples of outputs based on inputs
+ex: a bunch of photos of cats and dogs that are labeled as 
+cats and dogs
+
+Unsupervised and Self-supervised Learning
+You just have the data itself - you don't have any labels
+Learns solely on the data itself
+ex: the same photos without any labels
+
+Transfer Learning
+Taking the patterns that one model has learned and
+transferring it to another model
+ex: taking a model that has already learned other animals
+to get a head start on the cat and dog model
+
+We will be focusing on supervised learning and transfer learning.
+This style of code can be adapted to other paradigms.
+
+Reinforcement learning
+The idea that you have an agent and an environment.
+You reward certain desirable actions of the agent. 

@@ -1,0 +1,30 @@
+Machine Learning vs. Deep Learning
+
+Use traditional machine learning data on structured data 
+Structured data: labeled data, like a spreadsheet with columns and rows
+Algorithm: Gradient boosted machine
+
+Use deep learning on unstructured data
+Data that is all over the place (like natural language)
+Algorithm: Neural network
+
+
+Common algorithms for machine learning
+1) Random forest
+2) Gradient boosted models
+3) Naive Bayes
+4) Nearest neighbour
+5) Support vector machine
+Since the advent of deep learning, these are often referred to 
+as "shallow algorithms"
+
+Common algorithms for deep learning
+1) Neural networks
+2) Fully connected neural network
+3) Convolutional neural network
+4) Recurrent neural network
+5) Transformer
+
+Depending on how you represent your problem, you can probably
+use algorithms from both lists.
+

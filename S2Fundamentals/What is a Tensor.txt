@@ -1,0 +1,6 @@
+What is a Tensor?
+
+A tensor could be almost anything, almost any representation of numbers.
+It is the numerical representation of data.
+The neural network performs mathematical operations on the tensors.
+The neural network outputs another tensor with the outputs.

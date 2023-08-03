@@ -1,0 +1,23 @@
+What are Neural Networks?
+
+1) Inputs (unstructured data)
+2) Numerical encoding (converting input data into numbers)
+3) Learns representation (patterns/features/weights) (choose the appropriate neural network for your problem)
+4) Representation outputs (outputs in numerical format)
+5) Human understandable outputs (numerical format decoded)
+
+Input layer -> various hidden layers -> output layer
+CNN stands for convolutional neural network
+
+Anatomy of Neural Networks
+1) Input layer (data goes in here)
+2) Hidden layer(s) (learns patterns in data)
+3) Output layer (outputs 
+
+The overall architecture refers to all of the layers combined.
+Note: "patterns" is an arbitrary term, you'll often hear "embedding,
+"weights," "feature representation,"feature vectors" all referring to
+similar things.
+
+Each layer is usually a combination of linear (straight line) and/or 
+non-linear (not-straight line) functions.

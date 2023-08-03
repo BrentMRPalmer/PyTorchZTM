@@ -1,0 +1,12 @@
+What are we going to cover?
+
+Note: It is encouraged to Google as much as you feel like you need to.
+
+PyTorch basic and fundamentals (dealing with tensors and tensor operations)
+Preprocessing data (getting it into tensors)
+Building and using pretrained deep learning models
+Fitting a model to the data (learning patterns)
+Making predictions with a model (using patterns)
+Evaluating model predictions
+Saving and loading models
+Using a trained model to make predictios on custom data
